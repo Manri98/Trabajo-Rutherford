@@ -8,9 +8,26 @@ footer{
 	padding: 20px; 
 }
 
+footer hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-style: inset;
+    border-width: 1px;
+    color: #D6D6D6;
+
+} 
+
 footer h2 {
 	color: #D6D6D6;
 }
+
+footer p {
+	color: #D6D6D6;
+}
+
 footer li{
 	color: #D6D6D6;
 	list-style-type: none;
