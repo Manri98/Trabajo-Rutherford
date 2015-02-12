@@ -1,24 +1,35 @@
+.top{
+	max-width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	clear: both;
+
+}
+
 .cuerpo{
-	margin: 0 8% 0 8%;
+	max-width: 1280px;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: white;
 	height: 100%;
 	-moz-box-shadow: 0 10px 10px 0 #000000;
 	box-shadow: 0 10px 10px 0 #000000;
 	-webkit-box-shadow: 0 10px 10px 0 #000000;
-	border: 1px solid #000000;
+	clear: both;
 
 
 }
 
 .titulo{
-	margin: 10px 5% 10px 5%;
+	margin: 0 15px 0 15px;
 	/*height: 50px;*/
 	text-align: center;
-	border: 10px solid #3498db;
-	border-radius: 15px;
+	border: 10px solid white/*#3498db*/;
+	/*border-radius: 15px;
 	-moz-box-shadow: 0 5px 5px 0 #000000;
 	box-shadow: 0 5px 5px 0 #000000;
-	-webkit-box-shadow: 0 5px 5px 0 #000000;
+	-webkit-box-shadow: 0 5px 5px 0 #000000;*/
 	background-color: white;
 
 }
@@ -62,7 +73,7 @@ footer li{
 .wrapper{
 	height: 600px;
 	width:100%;
-	background-color: #d9d9d9;
+	background-color: #3498DB;
 	float: left;
 
 }
