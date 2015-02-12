@@ -42,15 +42,16 @@ footer{
 	float: left;
 	text-align: center;
 	border-top: 10px solid #3498db;
-	padding: 20px; 
+	padding-top:10px;
 }
 
 footer hr {
     display: block;
+    max-width: 1280px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: auto;
+    margin-right: auto;
     border-style: inset;
     border-width: 1px;
     color: #D6D6D6;
