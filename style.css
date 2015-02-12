@@ -4,6 +4,10 @@
 	margin-right: auto;
 	position: relative;
 	clear: both;
+	/*-moz-box-shadow: 0 10px 10px 0 #000000;
+	box-shadow: 0 10px 10px 0 #000000;
+	-webkit-box-shadow: 0 10px 10px 0 #000000;*/
+
 
 }
 
@@ -13,10 +17,10 @@
 	margin-right: auto;
 	background-color: white;
 	height: 100%;
-	-moz-box-shadow: 0 10px 10px 0 #000000;
-	box-shadow: 0 10px 10px 0 #000000;
-	-webkit-box-shadow: 0 10px 10px 0 #000000;
 	clear: both;
+	/*-moz-box-shadow: 0 10px 10px 0 #000000;
+	box-shadow: 0 10px 10px 0 #000000;
+	-webkit-box-shadow: 0 10px 10px 0 #000000;*/
 
 
 }
@@ -25,11 +29,7 @@
 	margin: 0 15px 0 15px;
 	/*height: 50px;*/
 	text-align: center;
-	border: 10px solid white/*#3498db*/;
-	/*border-radius: 15px;
-	-moz-box-shadow: 0 5px 5px 0 #000000;
-	box-shadow: 0 5px 5px 0 #000000;
-	-webkit-box-shadow: 0 5px 5px 0 #000000;*/
+	border: 10px solid white;
 	background-color: white;
 
 }
@@ -76,6 +76,7 @@ footer li{
 	background-color: #3498DB;
 	float: left;
 
+
 }
 
 body{
@@ -98,6 +99,7 @@ nav{
   background: #FFFFFF;
   position: relative;
   overflow: hidden;
+
 }
 
 nav ul {
