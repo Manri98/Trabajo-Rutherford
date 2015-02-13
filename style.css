@@ -1,21 +1,24 @@
 /* unvisited link */
 a:link {
     color: #0066FF;
+    text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #00007A;
+    text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
     color: #FF6600;
+    text-decoration: none;
 }
 
 /* selected link */
 a:active {
     color: #FF6600;
+    text-decoration: none;
 }
 
 .elframe{
