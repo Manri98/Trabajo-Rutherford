@@ -8,6 +8,10 @@
 	text-align: left;
 }
 
+.sub-contenido img{
+	margin-right: 6px;
+}
+
 .sub-contenido h4{
 	text-align: center;
 	font-size:2em;
