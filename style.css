@@ -395,6 +395,9 @@
 	background-image: -moz-linear-gradient(left, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
 
 }
+nav a{
+	text-decoration: #000
+}
 
 /* unvisited link */
 a:link {
