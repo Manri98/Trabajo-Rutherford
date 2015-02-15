@@ -466,9 +466,12 @@ a:active {
 	background-color: white;
 	height: 100%;
 	clear: both;
-/*	-webkit-box-shadow: 0px 0px 42px 5px rgba(0,0,0,1);
+	/*-webkit-box-shadow: 0px 0px 42px 5px rgba(0,0,0,1);
 	-moz-box-shadow: 0px 0px 42px 5px rgba(0,0,0,1);
 	box-shadow: 0px 0px 42px 5px rgba(0,0,0,1);*/
+	-webkit-box-shadow: 0px -15px 54px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px -15px 54px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px -15px 54px 0px rgba(0,0,0,0.75);
 
 
 }
@@ -488,7 +491,7 @@ footer{
 	width: 100%;
 	float: left;
 	text-align: center;
-	border-top: 10px solid #3498db;
+	/*border-top: 10px solid #3498db;*/
 	padding-top:10px;
 }
 
